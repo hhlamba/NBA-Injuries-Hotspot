@@ -1,7 +1,7 @@
 # NBA-Injuries-Hotspot
 
 
-<html>
+
   <div class='tableauPlaceholder' id='viz1609096255188' style='position: relative'>
     <noscript>
       <a href='https:&#47;&#47;public.tableau.com&#47;profile&#47;hhlamba#!&#47;NBA'>
@@ -22,15 +22,4 @@
       <param name='language' value='en' />
     </object>
   </div>                
-  <script type='text/javascript'>                    
-    var divElement = document.getElementById('viz1609096255188');                    
-    var vizElement = divElement.getElementsByTagName('object')[0];                    
-    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} 
-    else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} 
-    else { vizElement.style.width='100%';vizElement.style.height='1577px';}                     
-    var scriptElement = document.createElement('script');                    
-    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-  </script>
 
-</html>
