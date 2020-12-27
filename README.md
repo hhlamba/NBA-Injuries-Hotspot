@@ -2,7 +2,7 @@
 
 
 <p align = "center">
-  <img src="https://github.com/hhlamba/NBA-Injuries-Hotspot/tree/main/Output" height=700 width=700>
+  <img src="https://github.com/hhlamba/NBA-Injuries-Hotspot/tree/main/Output">
 </p>
 
 
