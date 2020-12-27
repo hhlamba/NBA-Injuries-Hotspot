@@ -1,5 +1,8 @@
 # NBA-Injuries-Hotspot
 
+<p align="center">
+  <a href ="https://public.tableau.com/profile/hhlamba#!/vizhome/NBAPlayerInjuries2010-2020/NBAInjuries2010-2020">Click here to view the Tableau Dashboard</a>
+</p>
 
 <p align = "center">
   <img src="https://github.com/hhlamba/NBA-Injuries-Hotspot/blob/main/Output/NBA.png" width = 1000>
